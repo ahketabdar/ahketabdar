@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ahketabdar 
-- 👀 I’m interested in A.I.
-- 🌱 I’m currently learning Eclipse
+- 🌱 I’m currently learning A.I.
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me kh.amir1024@gmail.com
 
